@@ -2,4 +2,4 @@
 
 ## TOC
 
-- [Debugging using vanilla Robot Framework](debug-vanilla/README.md)
+- [Debugging using vanilla Robot Framework](debug-vanilla)
