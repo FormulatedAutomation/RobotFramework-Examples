@@ -1,5 +1,6 @@
 # Formalated Automation's Robot Framework Examples
 
-## TOC
+## Table of Contents
 
-- [Debugging using vanilla Robot Framework](debug-vanilla)
+- [Debugging using vanilla Robot Framework keywords](debug-vanilla)
+- [Debugging using Python pdb](debug-python-pdb)
