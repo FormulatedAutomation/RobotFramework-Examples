@@ -1,12 +1,12 @@
 *** Settings ***
 Documentation   Opens the browser and searches Bing
-Library         RPA.Browser
+Library         RPA.Browser.Selenium
 Library         OperatingSystem
 Library         Dialogs
 Suite Teardown  Teardown Actions
 
 *** Variables ***
-${BING_URL}     https://bing.com
+${BING_URL}    https://bing.com
 
 *** Keywords ***
 Teardown Actions
@@ -16,7 +16,7 @@ Teardown Actions
 
 *** Keywords ***
 Pause For Debug
-    Pause Execution     Paused execution due to failure, click OK to continue teardown
+    Pause Execution    Paused execution due to failure, click OK to continue teardown
 
 *** Keywords ***
 Open Bing
@@ -33,4 +33,4 @@ Perform Search
 *** Task ***
 Search Bing
     Open Bing
-    Perform Search      Formulated Automation Github
+    Perform Search    Formulated Automation Github
