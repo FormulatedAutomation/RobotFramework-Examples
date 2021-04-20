@@ -32,7 +32,7 @@ Pillow==7.1.2
 psutil==5.7.0
 pycparser==2.20
 pycryptodome==3.9.7
-Pygments==2.6.1
+Pygments==2.7.4
 PyPDF2==1.26.0
 pyperclip==1.8.0
 pyscreenshot==1.0
