@@ -60,7 +60,7 @@ soupsieve==2.0.1
 tqdm==4.46.1
 tweepy==3.8.0
 tzlocal==2.1
-urllib3==1.25.9
+urllib3==1.26.5
 webdrivermanager==0.8.0
 wrapt==1.12.1
 xlrd==1.2.0
