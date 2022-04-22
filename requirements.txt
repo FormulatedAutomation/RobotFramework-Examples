@@ -33,7 +33,7 @@ psutil==5.7.0
 pycparser==2.20
 pycryptodome==3.9.7
 Pygments==2.7.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.8.0
 pyscreenshot==1.0
 PySocks==1.7.1
